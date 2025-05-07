@@ -3,5 +3,6 @@ public class HelloStudent{
 		String name="mahesh harsh";
 		System.out.println("Hello from "+name);
 		System.out.println("Hello Jenkins");
+		System.out.println("Welcome to DITISS");
 	}
 }
